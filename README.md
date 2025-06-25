@@ -106,7 +106,7 @@ pip install -r requirements.txt
 ## 👨‍💻 Team Members
 
 * Mahendra Bella – 22KH1A3306 [mahendrabella55@gmail.com](mailto:mahendrabella55@gmail.com)
-* Lavanya – 22KH1A33020
+* Lavanya – 22KH1A3320
 * Ganesh Raju – 22KH1A3330
 * Harinath – 22KH1A3310
 
